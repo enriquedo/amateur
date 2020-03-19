@@ -1,0 +1,2 @@
+# amateur
+S-systems
